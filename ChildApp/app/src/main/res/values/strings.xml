@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Child Monitor</string>
+    <string name="login_title">Sign In</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_child_name">Your Name</string>
+    <string name="btn_login">Sign In</string>
+    <string name="btn_open_chat">Open Chat</string>
+    <string name="btn_logout">Logout</string>
+    <string name="monitor_active">Monitoring Active</string>
+    <string name="monitor_inactive">Monitoring Inactive</string>
+    <string name="sms_monitoring">SMS Monitoring</string>
+    <string name="notif_monitoring">App Notifications</string>
+    <string name="chat_monitoring">In-App Chat</string>
+    <string name="channel_name">Parental Monitor</string>
+    <string name="channel_desc">Keeps parental monitoring active in the background</string>
+    <string name="notif_title">Parental Monitor Active</string>
+    <string name="notif_text">Monitoring messages for restricted content.</string>
+    <string name="notif_access_title">Enable Notification Access</string>
+    <string name="notif_access_msg">To monitor notifications from WhatsApp, Instagram, and other apps, please enable Notification Access for Child Monitor.</string>
+</resources>

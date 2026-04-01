@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    NotificationListenerService configuration.
+    This file is referenced by the service declaration in AndroidManifest.xml
+    to control which notifications it can access.
+-->
+<notification-listener
+    xmlns:android="http://schemas.android.com/apk/res/android" />
